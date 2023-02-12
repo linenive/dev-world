@@ -1,4 +1,4 @@
-###private web game project
+### private web game project
 
 typescript & PixiJS
 
