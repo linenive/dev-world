@@ -1,0 +1,7 @@
+shell.nix
+
+**/node_modules/
+dist/
+assets/
+
+*.exe
